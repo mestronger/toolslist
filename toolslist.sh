@@ -1,4 +1,4 @@
-#!/usr/bin/bas
+#!/usr/bin/bash
 
 #text intro
 echo "
@@ -20,11 +20,13 @@ echo "5. insta crack"
 echo "6. facebook report"
 echo "7. ip tracker"
 
+echo "................................................."
+
 #menu dikeluarkan
-echo "=> https.//github-com/ZoraaCode/brutefb"
-echo "=> https.//github-com/Rakagtpss/Rakafb"
-echo "=> https.//github-com/Yayan-XD/Cr4ck"
-echo "=> https.//github-com/ferlyafriliyan"
-echo "=> https.//github-com/termuxhackers-id/instahack"
-echo "=> https.//github-com/bhikandeshmukh/fbreport-git"
-echo "=> https.//github-com/htr-tech/track-ip.git"
+echo "(1) => https.//github-com/ZoraaCode/brutefb"
+echo "(2) => https.//github-com/Rakagtpss/Rakafb"
+echo "(3) => https.//github-com/Yayan-XD/Cr4ck"
+echo "(4) => https.//github-com/ferlyafriliyan"
+echo "(5) => https.//github-com/termuxhackers-id/instahack"
+echo "(6) => https.//github-com/bhikandeshmukh/fbreport-git"
+echo "(7) => https.//github-com/htr-tech/track-ip.git"
