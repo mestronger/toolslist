@@ -1,4 +1,12 @@
-#!/usr/bin/bash
+#!/usr/bin/bas
+
+#text intro
+echo "
+▀█▀ █▀█ █▀█ █░░ █▀   █░░ █ █▀ ▀█▀
+░█░ █▄█ █▄█ █▄▄ ▄█   █▄▄ █ ▄█ ░█░
+
+█░█░█ █▀█ █▀█ █▄▀
+▀▄▀▄▀ █▄█ █▀▄ █░█"
 
 #menampilkan intro
 echo "Selamat datang list tools kami"
